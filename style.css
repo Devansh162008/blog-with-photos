@@ -1,0 +1,24 @@
+body {
+background-color: linear-gradient(coral 40% pink 40%);
+text-align: center;
+margin-bottom: 40px
+}
+
+img {
+width: 200px;
+margin-bottom: 50px;
+border-radius: 50%;
+width: 500px;
+height: 500px;
+margin:20px;
+padding: 20px;
+}
+p {
+font-size: 30px;
+font-weight:400;
+color: greenyellow;
+}
+h1{
+font-size:50px;
+color:blue;
+}
